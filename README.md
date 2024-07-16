@@ -1,6 +1,8 @@
 # AngularFileUpload
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
+This is a Proof of Concept (PoC) project to demonstrate how Angular can work with AWS S3 bucket.
+
+For this PoC the [AWS Doc](https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/getting-started-browser.html) has been followed to create the S3 bucket and the Cognito User Pool with the necessary permissions to the bucket.
 
 ## Development server
 
